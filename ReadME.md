@@ -1,4 +1,4 @@
-## Products App
+## Product App
 
 - This repo is for JavaScript Problem solving Practice activity.
 - My task is to make a basic Product App. Inspired by codepen design.
