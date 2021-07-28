@@ -21,7 +21,7 @@ OR
 - Open index.html in your browser.
 
 ## Repo Link:
-https://github.com/rafatfatima-qa/Product-App
+https://github.com/Hibahasansiddiqui/Product-App-Project
 
 ## Live Link:
-https://rafatfatima-qa.github.io/Product-App/
+https://hibahasansiddiqui.github.io/Product-app.github.io/
